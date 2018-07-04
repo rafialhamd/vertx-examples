@@ -31,7 +31,7 @@ want to utilize them all, you can deploy 8 instances as follows:
 
     java -jar target/maven-verticle-3.5.1-fat.jar -instances 8
 
-You can also enable clustering and ha at the command line, e.g.
+You can also enable clustering and HA (High Availability) at the command line, e.g.
 
     java -jar target/maven-verticle-3.5.1-fat.jar -cluster
 
